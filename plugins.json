@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "001": "Another",
+        "002": "Example"
+    },
+    "list": [
+        {
+            "repo": "repository"
+        }
+    ]
+}
